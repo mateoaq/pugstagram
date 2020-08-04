@@ -1,11 +1,11 @@
 # Pugstagram
 Proyecto desarrollado en curso de Sapper en Platzi.
 
-#Initilization
+# Initilization
 npm install
 
 npm run dev
 
-#Preview in Netflify
+# Preview in Netflify
 
-(Pugstagram)[https://pedantic-johnson-572e76.netlify.app/]
+[Pugstagram](https://pedantic-johnson-572e76.netlify.app/)
