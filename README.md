@@ -1,5 +1,5 @@
 # Pugstagram
-Proyecto desarrollado en curso de Sapper en Platzi.
+Proyecto desarrollado en curso de Sapper en [Platzi](https://platzi.com).
 
 # Initilization
 npm install
